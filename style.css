@@ -1,0 +1,125 @@
+
+body{
+    background-image: url(/background-with-white-round-lines.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+    overflow-x: hidden;
+    overflow-y: auto;
+}
+
+.container-fluid{
+    background-color: gray;
+    position: sticky;
+
+}
+.navbar-toggler{
+    background-color: aliceblue;
+}
+
+#navbarNav{
+    justify-content: end;
+
+    
+}
+.navbar{
+    background-color:gray;
+}
+
+
+.name{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
+}
+.Hello1{
+    font-family: Georgia, 'Times New Roman', Times, serif; 
+}
+#img{
+    width: 350PX;
+    height: 350px;
+    border-radius: 50px;
+    -webkit-box-shadow: 9px 6px 8px -1px rgba(0,0,0,0.75);
+    -moz-box-shadow: 9px 6px 8px -1px rgba(0,0,0,0.75);
+    box-shadow: 9px 6px 8px -1px rgba(0,0,0,0.75); */
+    /* -webkit-box-shadow: -1px 3px 27px 3px rgba(0,0,0,0.75);
+    -moz-box-shadow: -1px 3px 27px 3px rgba(0,0,0,0.75);
+    box-shadow: -1px 3px 27px 3px rgba(0,0,0,0.75); */   
+}
+
+#imgabout{
+    width: 290px;
+    -webkit-box-shadow: 9px 6px 12px -4px rgba(0,0,0,0.75);
+-moz-box-shadow: 9px 6px 12px -4px rgba(0,0,0,0.75);
+box-shadow: 9px 6px 12px -4px rgba(0,0,0,0.75);
+}
+#abt-li{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    list-style: none;
+}
+
+#pro p{
+    font-size: 20px;
+    font-weight: bold;
+    
+}
+#intro{
+    margin-top:;
+}
+#pro{
+    .col:hover{
+    background-color: beige;
+ }
+}
+#concts{
+    height:250px;
+    background-color: rgb(183, 211, 211);
+
+}
+#cntc{
+    height: 180px;
+    background-color: rgb(156, 199, 199); ;
+}
+.nav-link{
+    color: rgba(196, 222, 243, 0.795);
+}
+.nav-link:hover{
+    color: white;
+}
+#form{
+    background-color: rgb(145, 185, 172);
+}
+.fa-brands{
+    color: rgb(71, 68, 68);
+}
+.fa-brands:hover{
+    color: black;
+    cursor: pointer;
+}
+.fa-solid{
+    color: rgb(102, 101, 101);
+}
+.fa-solid:hover{
+    color: black;
+}
+#cntc1{
+    height: 180px;
+    background-color: rgb(156, 199, 199); ;
+}
+.fa-phone:hover{
+    cursor: pointer;
+}
+#cntct{
+-webkit-box-shadow: 5px 5px 32px 0px rgba(0,0,0,0.75);
+-moz-box-shadow: 5px 5px 32px 0px rgba(0,0,0,0.75);
+box-shadow: 5px 5px 32px 0px rgba(0,0,0,0.75);
+}
+#cmpny,#cmnty,#mrdn,#ecmr{
+    -webkit-box-shadow: 5px 5px 32px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 5px 5px 32px 0px rgba(0,0,0,0.75);
+    box-shadow: 5px 5px 32px 0px rgba(0,0,0,0.75);    
+}
+/* #hell{
+    position: relative;
+    top: 100px;
+} */
